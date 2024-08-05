@@ -1,7 +1,17 @@
-package go_mod_template
+package e
 
-// Put package functions here
+func Add(a, b float64) float64 {
+	return a + b
+}
 
-func Foo() {
-	// NOP
+func Subtract(a, b float64) float64 {
+	return a - b
+}
+
+func Multiply(a, b float64) float64 {
+	return a * b
+}
+
+func Divide(a, b float64) float64 {
+	return a / b
 }

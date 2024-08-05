@@ -1,5 +1,5 @@
-package go_mod_template
+package e
 
 func version() string {
-	return "1.0.0"
+	return "v1.0.0"
 }
