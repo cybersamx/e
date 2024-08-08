@@ -1,5 +1,5 @@
 package e
 
-func version() string {
-	return "v1.0.0"
+func Version() string {
+	return "e: v1.0.0"
 }
